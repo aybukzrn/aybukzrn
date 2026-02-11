@@ -34,8 +34,9 @@ Recently, I've been focusing on **React** ecosystems, **Data Analysis** with Pyt
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aybukzrn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aybukzrn&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aybukzrn&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
