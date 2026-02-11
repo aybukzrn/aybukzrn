@@ -1,6 +1,6 @@
 # Hi there! I'm Aybüke Zeren 👋
 
-I'm a passionate **Computer Engineering Student** and a **Full Stack Developer** from Turkey. I enjoy building interactive web applications and exploring the depths of system architecture.
+I'm a passionate **Software Engineering Student** and a **Front-End Developer** from Turkey. I enjoy building interactive web applications and exploring the depths of system architecture.
 
 Recently, I've been focusing on **React** ecosystems, **Data Analysis** with Python, and experimenting with **AI Agents**.
 
@@ -42,5 +42,4 @@ Recently, I've been focusing on **React** ecosystems, **Data Analysis** with Pyt
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayb%C3%BCke-zeren/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seninsiten.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seninmailin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aybukezrn@gmail.com)
