@@ -7,10 +7,10 @@ Recently, I've been focusing on **React** ecosystems, **Data Analysis** with Pyt
 ---
 
 ### 🚀 What I'm up to
-- 🔭 I’m currently working on an **Academic Performance Tracking System**.
-- 🌱 I’m currently learning **Advanced Algorithms, System Architecture, and AI Agents (CrewAI)**.
-- 👯 I’m looking to collaborate on **Open Source React & Python projects**.
-- ⚡ Fun fact: I love diving deep into **Operating Systems** concepts and solving algorithmic puzzles!
+- I’m currently working on an **Academic Performance Tracking System**.
+- I’m currently learning **Advanced Algorithms, System Architecture, and AI Agents (CrewAI)**.
+- I’m looking to collaborate on **Open Source React & Python projects**.
+- Fun fact: I love diving deep into **Operating Systems** concepts and solving algorithmic puzzles!
 
 ---
 
